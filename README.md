@@ -19,5 +19,6 @@
 
 # Delete Notes
 
-![Screenshot (63)](https://user-images.githubusercontent.com/68781168/120649244-2b931800-c49a-11eb-869b-8574e3771cc1.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/68781168/120650381-5c278180-c49b-11eb-8497-71c4baacac01.png)
+
 
