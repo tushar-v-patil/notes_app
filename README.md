@@ -8,6 +8,19 @@
 
 • Used of Recycler view over List view.
 
+# Flow Of the App (MVVM Architecture)
+
+	UI Controller (Activity) <- displays the data and forwards the UI events
+		\/
+	ViewModel (Live Data) <- Holds all the data needed for UI (Concept of MVVM Architecture)
+		\/
+	Repository   <- Repository is a class which purpose is to provide a clean API for accessing data.
+		\/
+	--------- ROOM Database [Helps in accessing DAO and follows singleton pattern]
+		\/
+	 DAO (Data Access Object) [Query is done here on Entity]
+		|
+	SQLite [ENTITY/TABLE]
 
 # UI Of The App
 
