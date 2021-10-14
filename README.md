@@ -6,7 +6,7 @@
 
 • Scalable, Robust, and Maintainable App.
 
-• Used of recyler view over list view.
+• Used of Recycler view over List view.
 
 
 # UI Of The App
@@ -23,7 +23,7 @@
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/68781168/120650381-5c278180-c49b-11eb-8497-71c4baacac01.png)
 
-# RecylerView is used. (Optimization over ListView)
+# RecyclerView is used. (Optimization over ListView)
 
 https://miro.medium.com/max/700/1*8go_yZFE5Gf9au_P48_qKw.png
 
