@@ -6,6 +6,8 @@
 
 • Scalable, Robust, and Maintainable App.
 
+• Used of recyler view over list view.
+
 
 # UI Of The App
 
