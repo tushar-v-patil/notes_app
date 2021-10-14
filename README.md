@@ -18,7 +18,7 @@
 	     \/
 	-------------- ROOM Database [Helps in accessing DAO and follows singleton pattern]
 	     \/
-	 DAO (Data Access Object) [Query is done here on Entity]
+	DAO (Data Access Object) [Query is done here on Entity]
 	     | 
 	SQLite [ENTITY/TABLE]
 
