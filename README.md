@@ -10,17 +10,17 @@
 
 # Flow Of the App (MVVM Architecture)
 
-	UI Controller (Activity) <- displays the data and forwards the UI events
+	UI Controller (Activity) 
 	     \/
-	ViewModel (Live Data) <- Holds all the data needed for UI (Concept of MVVM Architecture)
+	ViewModel (Live Data) (data holding)
 	     \/
-	Repository   <- Repository is a class which purpose is to provide a clean API for accessing data.
+	Repository (clean API)
 	     \/
-	-------------- ROOM Database [Helps in accessing DAO and follows singleton pattern]
+	-------------- ROOM Database (singleton class)
 	     \/
-	DAO (Data Access Object) [Query is done here on Entity]
+	DAO (Data Access Object) (query operations)
 	     | 
-	SQLite [ENTITY/TABLE]
+	SQLite [ENTITY/TABLE] (table creation)
 
 # UI Of The App
 
